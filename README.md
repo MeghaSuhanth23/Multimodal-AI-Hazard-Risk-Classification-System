@@ -27,7 +27,7 @@ This project aims to bridge that gap by:
 
 ##  Project Structure
 
-```text
+```
 Hazard Risk/
 │
 ├── data/           # Sample dataset or references
@@ -40,7 +40,7 @@ Hazard Risk/
 ├── requirements.txt
 └── README.md
 
-
+---
 
 ## Installation & Setup
 
