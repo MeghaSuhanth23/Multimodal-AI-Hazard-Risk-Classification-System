@@ -26,23 +26,28 @@ This project aims to bridge that gap by:
 ---
 
 ##  Project Structure
-Hazard Risk
+
+```text
+Hazard Risk/
 │
-├── data/ # Sample dataset or references
-├── notebooks/ # Jupyter notebooks (setup & experiments)
-├── src/ # Core pipeline code (data, model, utils)
-├── ui/ # Interface (FastAPI / Streamlit - upcoming)
-├── results/ # Outputs, plots, and visualizations
-├── docs/ # Architecture diagrams and assets
+├── data/           # Sample dataset or references
+├── notebooks/      # Jupyter notebooks (setup & experiments)
+├── src/            # Core pipeline code (data, model, utils)
+├── ui/             # Interface (FastAPI / Streamlit)
+├── results/        # Outputs, plots, and visualizations
+├── docs/           # Architecture diagrams and assets
 │
 ├── requirements.txt
 └── README.md
+
+
 
 ## Installation & Setup
 
 ### 1. Clone the repository
 
 git clone https://github.com/MeghaSuhanth23/Multimodal-AI-Hazard-Risk-Classification-System.git
+
 cd Hazard Risk
 
 ### 2. Install dependencies
