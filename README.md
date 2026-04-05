@@ -42,7 +42,7 @@ Hazard Risk
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/hazard-risk-ai.git
+git clone https://github.com/MeghaSuhanth23/Multimodal-AI-Hazard-Risk-Classification-System.git
 cd Hazard Risk
 
 ### 2. Install dependencies
