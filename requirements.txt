@@ -1,0 +1,10 @@
+torch
+torchvision
+ultralytics
+opencv-python
+matplotlib
+numpy
+pandas
+fastapi
+uvicorn
+pillow
