@@ -1,0 +1,7 @@
+{
+  "validation_accuracy": 0.976,
+  "validation_macro_f1": 0.8760304964978616,
+  "test_accuracy": 0.976,
+  "test_macro_f1": 0.8660445178718938,
+  "test_high_risk_recall": 1.0
+}

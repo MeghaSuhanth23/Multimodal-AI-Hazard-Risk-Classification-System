@@ -1,0 +1,35 @@
+# -----------------------------
+# Dataset images / labels
+# -----------------------------
+notebooks/filtered_ppe_5class/train/
+notebooks/filtered_ppe_5class/test/
+notebooks/filtered_ppe_5class/val/
+
+
+# -----------------------------
+# Python cache
+# -----------------------------
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# -----------------------------
+# macOS
+# -----------------------------
+.DS_Store
+
+# -----------------------------
+# Jupyter runtime
+# -----------------------------
+*.nbconvert.ipynb
+
+
+# -----------------------------
+# Optional local DB files
+# -----------------------------
+anaconda_projects/db/
+
+# -----------------------------
+# Optional temp files
+# -----------------------------
+*.log

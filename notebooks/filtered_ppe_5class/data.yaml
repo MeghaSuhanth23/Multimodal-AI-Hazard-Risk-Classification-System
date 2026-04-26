@@ -1,0 +1,10 @@
+path: /Users/meghasuhanth/Documents/ADL Project/Hazard Risk/notebooks/filtered_ppe_5class
+train: train/images
+val: val/images
+test: test/images
+names:
+  0: person
+  1: helmet
+  2: vest
+  3: gloves
+  4: goggles
